@@ -1,0 +1,8 @@
+{
+  "name": "tech-blog",
+  "version": "1.0.0",
+  "description": "Trabajo Practico - Blog Tecnico",
+  "scripts": {
+    "dev": "npx -y serve ."
+  }
+}
